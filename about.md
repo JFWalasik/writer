@@ -6,8 +6,9 @@ title: About
 I write clear, compelling sentences. 
 
 #### I like working with... 
-Kind, collaborative, high-performing people.
+Kind, collaborative, high-performing people who are smarter than I am and enjoy laughing.
 
 #### Right now I am learning...
 Website setup with jekyll, and help from Anthropic Opus 4.5 and
-[Pat Dryburgh's Hitchens theme] (https://github.com/patdryburgh/hitchens)
+Pat Dryburgh's Hitchens theme 
+(https://github.com/patdryburgh/hitchens)
