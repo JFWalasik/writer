@@ -3,6 +3,15 @@ layout: page
 title: "Hitchens"
 ---
 
+With this code in the _config.yml file, :
+
+
+url: "https://jfwalasik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/writer" # the subpath of your site, e.g. /blog
+
+The site lives at https://jfwalasik.github.io/writer
+
+
 An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
 
 ![Hitchens Preview](https://raw.githubusercontent.com/patdryburgh/hitchens/master/screenshot.png)
