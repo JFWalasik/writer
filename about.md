@@ -8,4 +8,4 @@ I write clear, compelling sentences.
 Kind, collaborative, high-performing people who are smarter than I am and enjoy laughing.
 ### Right now I am learning...
 Website setup with jekyll, and help from Anthropic Opus 4.5 and
-Pat Dryburgh's Hitchens [theme:](https://www.github.com/patdryburgh/hitchens)
+Pat Dryburgh's [Hitchens theme:](https://www.github.com/patdryburgh/hitchens)
